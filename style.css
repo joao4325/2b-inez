@@ -100,8 +100,12 @@ main {
 
 #categorias h2 {
     text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: normal;
     text-align: center;
+    font-family: var(--fonte-subtitulo);
 }
+
 ul {
     text-align: center;
     list-style: none;
@@ -327,10 +331,14 @@ footer p {
         margin: 10px auto;
     }
     
-    #categorias h2 {
+     #categorias h2 {
         text-transform: uppercase;
+        text-decoration: underline;
+        font-weight: normal;
         text-align: center;
+        font-family: var(--fonte-subtitulo);
     }
+    
     ul {
         text-align: center;
         list-style: none;
@@ -560,7 +568,10 @@ footer p {
     
     #categorias h2 {
         text-transform: uppercase;
+        text-decoration: underline;
+        font-weight: normal;
         text-align: center;
+        font-family: var(--fonte-subtitulo);
     }
     ul {
         text-align: center;
@@ -791,8 +802,12 @@ footer p {
     
     #categorias h2 {
         text-transform: uppercase;
+        text-decoration: underline;
+        font-weight: normal;
         text-align: center;
-    }
+        font-family: var(--fonte-subtitulo);
+    }   
+    
     ul {
         font-size: 13px;
         text-align: center;
